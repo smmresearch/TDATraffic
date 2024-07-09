@@ -1,0 +1,6 @@
+The scripts are dependent upon each other and must be run in the correct order
+1/2/3. In any order: parseTraffic.py, timeToWeeks.py, weekToIndex.py
+4. weeksToPick.py
+5. computeLandscapes.py
+6. computeUnsmoothedScores.py
+7. puttingDaysTogether.py
